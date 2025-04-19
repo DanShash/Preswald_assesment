@@ -1,0 +1,20 @@
+[project]
+title = "Happiness & Economy Explorer"
+version = "1.0.0"
+port = 8501
+slug = "happiness-economy-dashboard"
+entrypoint = "hello.py"
+
+[branding]
+name = "Global Happiness Insights"
+logo = "images/Happy_logo.png"
+favicon = "images/favicon.ico"
+primaryColor = "#3B82F6" 
+
+[data.WHI_Inflation]
+type = "csv"
+path = "data/WHI_Inflation.csv"
+
+[logging]
+level = "INFO"  
+format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
