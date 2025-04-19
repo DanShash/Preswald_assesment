@@ -85,5 +85,5 @@ I will add 4 screenshots of how did my assesment project looked on the Preview s
 
 Daniels Shashkovs  
 Aspiring Machine Learning Engineer & Data Scientist  
-[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/dan-shash/))
+[LinkedIn](https://www.linkedin.com/in/dan-shash/)
 
